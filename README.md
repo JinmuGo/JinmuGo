@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**jgodv/jgodv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<p>
+	<a href="#" onclick='window.open("https://42seoul.kr/");return false;'><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>
+	<a href="#" onclick='window.open("https://jgo.kr/");return false;'><img src="https://img.shields.io/badge/tistory-424242?style=flat-square&logo=tistory&logoColor=white"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+🔭 I’m currently studying on ... 42seoul
+</p>
+
+Interested in **C++**, **TS/JS**, **CI/CD**
+
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgodv&show_icons=true&theme=panda)
