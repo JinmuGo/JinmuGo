@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Hi there 👋
 
 <br/>
@@ -16,3 +18,5 @@ Interested in **C++**, **TS/JS**, **CI/CD**
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgodv&show_icons=true&theme=panda)
+
+</div>
