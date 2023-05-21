@@ -13,6 +13,6 @@
 🔭 I’m currently studying on ... 42seoul
 </p>
 
-Interested in **C++**, **TS/JS**, **CI/CD**
+Interested in **C/C++**, **JS/TS**, **CI/CD**
 
 </div>
