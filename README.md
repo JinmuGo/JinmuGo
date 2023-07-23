@@ -5,7 +5,7 @@
 <br/>
 
 <p>
-	<a href="https://42seoul.kr" onclick="window.open(this.href,'_blank');"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>
+	<a href="https://profile.intra.42.fr/users/jgo" onclick="window.open(this.href,'_blank');"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>
 	<a href="https://jgo.kr" onclick="window.open(this.href, '_blank');"><img src="https://img.shields.io/badge/BLOG-424242?style=flat-square&logo=tistory&logoColor=white"/></a>
 </p>
 
