@@ -1,18 +1,11 @@
-<div align="center">
+<h2> Hi there, I'm JinMu </h2>
 
-### Hi there 👋
+<a href="https://blog.jgo.me" onclick="window.open(this.href,'_blank');">
+  <img src="./Logo.svg" width="200" align="left" />
+</a>
 
-<br/>
-
-<p>
-	<a href="https://profile.intra.42.fr/users/jgo" onclick="window.open(this.href,'_blank');"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>
-	<a href="https://jgo.me" onclick="window.open(this.href, '_blank');"><img src="https://img.shields.io/badge/BLOG-424242?style=flat-square&logo=tistory&logoColor=white"/></a>
-</p>
+_Reader & Writer, Visual Thinker_
 
 <p>
-🔭 I’m currently studying on ... 42seoul
+known as <a href="https://profile.intra.42.fr/users/jgo" onclick="window.open(this.href,'_blank');">jgo</a> at 42seoul 
 </p>
-
-Interested in **C/C++**, **JS/TS**, **CI/CD**
-
-</div>
