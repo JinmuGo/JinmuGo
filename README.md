@@ -1,9 +1,5 @@
 <h2> Hi there, I'm JinMu </h2>
 
-<a href="https://blog.jgo.me" onclick="window.open(this.href,'_blank');">
-  <img src="./Logo.svg" width="200" align="left" />
-</a>
-
 _Reader & Writer, Visual Thinker_
 
 <p>
