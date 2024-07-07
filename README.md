@@ -1,4 +1,4 @@
-<h2> Hi there, I'm JinMu </h2>
+<h2> Hi there, I'm Jinmu </h2>
 
 _Reader & Writer, Visual Thinker_
 
