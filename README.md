@@ -1,7 +1,8 @@
-<h2> It's Jinmu Go </h2>
+## Jinmu Go
 
 _Reader & Writer, Visual Thinker_
 
-<p>
-known as <a href="https://profile.intra.42.fr/users/jgo" onclick="window.open(this.href,'_blank');">jgo</a> at 42seoul 
-</p>
+known as jgo at 42seoul
+
+### Blog
+<a href="https://jinmu.me"><img width="400" alt="Logo of jinmu.me" src="https://github.com/user-attachments/assets/6fb09923-7087-42ac-9d7e-4f18dac29559" /></a>
