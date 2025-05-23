@@ -2,9 +2,9 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[CLF-C02] AWS Cloud Practitioner 자격증 취득 후기](https://jinmu.me/post/AWS/aws-clf-c02)
 - [Monorepo기반 Next.js와 UI 패키지를 위한 Storybook Composition 설정](https://jinmu.me/post/develop/monorepo-storybook-composition)
 - [블로그 댓글기능 적용기 With Fuma Comment](https://jinmu.me/post/develop/blog-comment-feautre-with-fuma-comment)
-- [눈이 하늘에서 내려오는 침묵이라면](https://jinmu.me/memo/If-snow-is-silence-falling-from-the-sky)
 <!-- BLOG-POST-LIST:END -->
 
 Check Out My Project [This Link](https://jinmu.me/projects)
