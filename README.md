@@ -2,9 +2,9 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[CLF-C02] AWS Cloud Practitioner Certification Review](https://jinmu.meen/post/AWS/aws-clf-c02)
-- [Setting up Storybook Composition for Monorepo-based Next.js and UI packages](https://jinmu.meen/post/develop/monorepo-storybook-composition)
-- [How to apply blog comment function With Fuma Comment](https://jinmu.meen/post/develop/blog-comment-feautre-with-fuma-comment)
+- [[CLF-C02] AWS Cloud Practitioner Certification Review](https://jinmu.me/en/post/AWS/aws-clf-c02)
+- [Setting up Storybook Composition for Monorepo-based Next.js and UI packages](https://jinmu.me/en/post/develop/monorepo-storybook-composition)
+- [How to apply blog comment function With Fuma Comment](https://jinmu.me/en/post/develop/blog-comment-feautre-with-fuma-comment)
 <!-- BLOG-POST-LIST:END -->
 
 Check Out My Project [This Link](https://jinmu.me/projects)
