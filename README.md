@@ -2,9 +2,9 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[CLF-C02] AWS Cloud Practitioner Certification Review](https://jinmu.me//en/post/aws/aws-clf-c02)
-- [Setting up Storybook Composition for Monorepo-based Next.js and UI packages](https://jinmu.me//en/post/develop/monorepo-storybook-composition)
-- [How to apply blog comment function With Fuma Comment](https://jinmu.me//en/post/develop/blog-comment-feautre-with-fuma-comment)
+- [DNS &lpar;Domain Name System&rpar; DeepDive - 배경과 시스템](https://jinmu.me/post/develop/dns-deepdive-1)
+- [Amazon Q Developer CLI 간단 체험기](https://jinmu.me/post/aws/amazon-q-developer-cli)
+- [달팽이 &#39;나름 전력질주중&#39;](https://jinmu.me/memo/snail-sprinting-in-its-own-way)
 <!-- BLOG-POST-LIST:END -->
 
 Check Out My Project [This Link](https://jinmu.me/projects)
