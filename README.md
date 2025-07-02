@@ -2,9 +2,9 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DNS &lpar;Domain Name System&rpar; DeepDive - 레지스트리, 레지스트라](https://jinmu.me/post/develop/dns-deepdive-2)
 - [DNS &lpar;Domain Name System&rpar; DeepDive - 배경과 시스템](https://jinmu.me/post/develop/dns-deepdive-1)
 - [Amazon Q Developer CLI 간단 체험기](https://jinmu.me/post/aws/amazon-q-developer-cli)
-- [달팽이 &#39;나름 전력질주중&#39;](https://jinmu.me/memo/snail-sprinting-in-its-own-way)
 <!-- BLOG-POST-LIST:END -->
 
 Check Out My Project [This Link](https://jinmu.me/projects)
