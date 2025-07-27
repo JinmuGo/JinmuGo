@@ -2,10 +2,9 @@
 
 ### 🇰🇷 Korean Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [프록시, 이제는 더이상 물러날 곳이 없다!](https://jinmu.me/post/develop/proxy-no-more-retreat)
-- [Git Squash vs Fixup](https://jinmu.me/post/develop/git-squash-vs-fixup)
-- [DNS &lpar;Domain Name System&rpar; DeepDive - Name Resolution](https://jinmu.me/post/develop/dns-deepdive-3)
-<!-- BLOG-POST-LIST:END -->
+- [[No Title] - Post](https://jinmu.me/posts/develop/proxy-no-more-retreat/)
+- [[No Title] - Post](https://jinmu.me/posts/develop/git-squash-vs-fixup/)
+- [[No Title] - Post](https://jinmu.me/posts/develop/dns-deepdive-3/)<!-- BLOG-POST-LIST:END -->
 
 ### 🇺🇸 English Blog Posts
 <!-- ENGLISH-BLOG-POST-LIST:START -->
