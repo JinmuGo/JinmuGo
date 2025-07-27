@@ -13,8 +13,22 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+      - name: Pull in Korean blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://jinmu.me/rss.xml"
           max_post_count: 3
+          template: "$newline- [$title]($url)"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          readme_path: ./README.md
+          comment_tag_name: "BLOG-POST-LIST"
+          
+      - name: Pull in English blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://jinmu.me/en/rss.xml"
+          max_post_count: 3
+          template: "$newline- [$title]($url)"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          readme_path: ./README.md
+          comment_tag_name: "ENGLISH-BLOG-POST-LIST"
