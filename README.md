@@ -8,8 +8,8 @@
 
 ### 🇺🇸 English Blog Posts
 <!-- ENGLISH-BLOG-POST-LIST:START -->
-- [Proxies, there&#39;s nowhere to hide!](https://jinmu.me/posts/develop/proxy-no-more-retreat/)
-- [Git Squash vs Fixup](https://jinmu.me/posts/develop/git-squash-vs-fixup/)
-- [Domain Name System &lpar;DNS&rpar; DeepDive - Name Resolution](https://jinmu.me/posts/develop/dns-deepdive-3/)<!-- ENGLISH-BLOG-POST-LIST:END -->
+- [Proxies, there&#39;s nowhere to hide!](https://jinmu.me/en/posts/develop/proxy-no-more-retreat/)
+- [Git Squash vs Fixup](https://jinmu.me/en/posts/develop/git-squash-vs-fixup/)
+- [Domain Name System &lpar;DNS&rpar; DeepDive - Name Resolution](https://jinmu.me/en/posts/develop/dns-deepdive-3/)<!-- ENGLISH-BLOG-POST-LIST:END -->
 
 Check Out My Project [This Link](https://jinmu.me/projects)
