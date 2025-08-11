@@ -3,8 +3,8 @@
 ### Korean Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [스플릿 키보드 입문기](https://jinmu.me/memos/first-split-keyboard/)
-- [프록시, 이제는 더이상 물러날 곳이 없다!](https://jinmu.me/posts/develop/proxy-no-more-retreat/)
-- [Git Squash vs Fixup](https://jinmu.me/posts/develop/git-squash-vs-fixup/)<!-- BLOG-POST-LIST:END -->
+- [프록시, 이제는 더이상 물러날 곳이 없다!](https://jinmu.me/posts/proxy-no-more-retreat/)
+- [Git Squash vs Fixup](https://jinmu.me/posts/git-squash-vs-fixup/)<!-- BLOG-POST-LIST:END -->
 
 ### English Blog Posts
 <!-- ENGLISH-BLOG-POST-LIST:START -->
