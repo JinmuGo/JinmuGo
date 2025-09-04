@@ -2,9 +2,9 @@
 
 ### Korean Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ssh-copy-id를 이용해서 원격지 접속쉽게 설정하기](https://jinmu.me/memos/ssh-copy-id/)
 - [매직 패킷은 왜 MAC주소를 16번 반복할까?](https://jinmu.me/posts/wake-on-lan-mac-address-16-times/)
-- [스플릿 키보드 입문기](https://jinmu.me/memos/first-split-keyboard/)
-- [프록시, 이제는 더이상 물러날 곳이 없다!](https://jinmu.me/posts/proxy-no-more-retreat/)<!-- BLOG-POST-LIST:END -->
+- [스플릿 키보드 입문기](https://jinmu.me/memos/first-split-keyboard/)<!-- BLOG-POST-LIST:END -->
 
 ### English Blog Posts
 <!-- ENGLISH-BLOG-POST-LIST:START -->
