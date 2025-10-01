@@ -2,9 +2,9 @@
 
 ### Korean Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DHCP with wi-fi](https://jinmu.me/posts/dhcp-with-wifi/)
 - [제4회 선샤인런 하프마라톤 완주 후기](https://jinmu.me/memos/sunshine-run-half-marathon/)
-- [ssh-copy-id를 이용해서 원격지 접속쉽게 설정하기](https://jinmu.me/memos/ssh-copy-id/)
-- [매직 패킷은 왜 MAC주소를 16번 반복할까?](https://jinmu.me/posts/wake-on-lan-mac-address-16-times/)<!-- BLOG-POST-LIST:END -->
+- [ssh-copy-id를 이용해서 원격지 접속쉽게 설정하기](https://jinmu.me/memos/ssh-copy-id/)<!-- BLOG-POST-LIST:END -->
 
 ### English Blog Posts
 <!-- ENGLISH-BLOG-POST-LIST:START -->
