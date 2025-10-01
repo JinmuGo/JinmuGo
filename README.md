@@ -8,8 +8,8 @@
 
 ### English Blog Posts
 <!-- ENGLISH-BLOG-POST-LIST:START -->
+- [DHCP with wi-fi](https://jinmu.me/en/posts/dhcp-with-wifi/)
 - [4th Sunshine Run Half Marathon Recap](https://jinmu.me/en/memos/sunshine-run-half-marathon/)
-- [Using ssh-copy-id to easily set up remote connections](https://jinmu.me/en/memos/ssh-copy-id/)
-- [Why does a magic packet repeat its MAC address 16 times?](https://jinmu.me/en/posts/wake-on-lan-mac-address-16-times/)<!-- ENGLISH-BLOG-POST-LIST:END -->
+- [Using ssh-copy-id to easily set up remote connections](https://jinmu.me/en/memos/ssh-copy-id/)<!-- ENGLISH-BLOG-POST-LIST:END -->
 
 Check Out My Project [This Link](https://jinmu.me/projects)
