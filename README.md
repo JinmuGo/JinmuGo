@@ -2,9 +2,9 @@
 
 ### Korean Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [HTTP/1.1 파이프라이닝의 역사와 한계](https://jinmu.me/posts/http-pipelining/)
 - [DHCP with wi-fi](https://jinmu.me/posts/dhcp-with-wifi/)
-- [제4회 선샤인런 하프마라톤 완주 후기](https://jinmu.me/memos/sunshine-run-half-marathon/)
-- [ssh-copy-id를 이용해서 원격지 접속쉽게 설정하기](https://jinmu.me/memos/ssh-copy-id/)<!-- BLOG-POST-LIST:END -->
+- [제4회 선샤인런 하프마라톤 완주 후기](https://jinmu.me/memos/sunshine-run-half-marathon/)<!-- BLOG-POST-LIST:END -->
 
 ### English Blog Posts
 <!-- ENGLISH-BLOG-POST-LIST:START -->
