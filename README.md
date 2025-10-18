@@ -8,8 +8,8 @@
 
 ### English Blog Posts
 <!-- ENGLISH-BLOG-POST-LIST:START -->
+- [The History and Limitations of HTTP/1.1 Pipelining](https://jinmu.me/en/posts/http-pipelining/)
 - [DHCP with wi-fi](https://jinmu.me/en/posts/dhcp-with-wifi/)
-- [4th Sunshine Run Half Marathon Recap](https://jinmu.me/en/memos/sunshine-run-half-marathon/)
-- [Using ssh-copy-id to easily set up remote connections](https://jinmu.me/en/memos/ssh-copy-id/)<!-- ENGLISH-BLOG-POST-LIST:END -->
+- [4th Sunshine Run Half Marathon Recap](https://jinmu.me/en/memos/sunshine-run-half-marathon/)<!-- ENGLISH-BLOG-POST-LIST:END -->
 
 Check Out My Project [This Link](https://jinmu.me/projects)
