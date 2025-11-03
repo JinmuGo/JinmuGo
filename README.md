@@ -2,9 +2,9 @@
 
 ### Korean Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2025 춘천마라톤 첫번째 풀 마라톤 완주](https://jinmu.me/posts/first-full-marathon/)
 - [HTTP/1.1 파이프라이닝의 역사와 한계](https://jinmu.me/posts/http-pipelining/)
-- [DHCP with wi-fi](https://jinmu.me/posts/dhcp-with-wifi/)
-- [제4회 선샤인런 하프마라톤 완주 후기](https://jinmu.me/memos/sunshine-run-half-marathon/)<!-- BLOG-POST-LIST:END -->
+- [DHCP with wi-fi](https://jinmu.me/posts/dhcp-with-wifi/)<!-- BLOG-POST-LIST:END -->
 
 ### English Blog Posts
 <!-- ENGLISH-BLOG-POST-LIST:START -->
