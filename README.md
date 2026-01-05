@@ -8,8 +8,8 @@
 
 ### English Blog Posts
 <!-- ENGLISH-BLOG-POST-LIST:START -->
-- [Plan to attend CES 2026](https://jinmu.me/en/memos/ces-2026-planning/)
-- [The History and Limitations of HTTP/1.1 Pipelining](https://jinmu.me/en/posts/http-pipelining/)
-- [DHCP with wi-fi](https://jinmu.me/en/posts/dhcp-with-wifi/)<!-- ENGLISH-BLOG-POST-LIST:END -->
+- [Plan to attend CES 2026](https://jinmu.me/en/memos/ces-2026-planningen/)
+- [The History and Limitations of HTTP/1.1 Pipelining](https://jinmu.me/en/posts/http-pipeliningen/)
+- [DHCP with wi-fi](https://jinmu.me/en/posts/dhcp-with-wifien/)<!-- ENGLISH-BLOG-POST-LIST:END -->
 
 Check Out My Project [This Link](https://jinmu.me/projects)
