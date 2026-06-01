@@ -2,9 +2,9 @@
 
 ### Korean Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [제 1회 - 첫 시작.](https://jinmu.me/weekly/2026-W21/)
-- [CES 2026 참관 계획](https://jinmu.me/posts/ces-2026-planning/)
-- [2025 춘천마라톤 첫번째 풀 마라톤 완주](https://jinmu.me/posts/first-full-marathon/)<!-- BLOG-POST-LIST:END -->
+- [Week 22 - 식집사](https://jinmu.me/weekly/2026-W22/)
+- [Week 21 - 첫 시작.](https://jinmu.me/weekly/2026-W21/)
+- [CES 2026 참관 계획](https://jinmu.me/posts/ces-2026-planning/)<!-- BLOG-POST-LIST:END -->
 
 ### English Blog Posts
 <!-- ENGLISH-BLOG-POST-LIST:START -->
