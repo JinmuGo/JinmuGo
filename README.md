@@ -8,8 +8,8 @@
 
 ### English Blog Posts
 <!-- ENGLISH-BLOG-POST-LIST:START -->
-- [Week 22 - The Butler](https://jinmu.me/en/weekly/2026-W22/)
-- [Part 1 - Getting started.](https://jinmu.me/en/weekly/2026-W21/)
-- [Plan to attend CES 2026](https://jinmu.me/en/posts/ces-2026-planning/)<!-- ENGLISH-BLOG-POST-LIST:END -->
+- [Week 23 - Nanchun](https://jinmu.me/en/weekly/2026-W23/)
+- [Week 22 - Food Steward](https://jinmu.me/en/weekly/2026-W22/)
+- [Week 21 - The Beginning.](https://jinmu.me/en/weekly/2026-W21/)<!-- ENGLISH-BLOG-POST-LIST:END -->
 
 Check Out My Project [This Link](https://jinmu.me/projects)
