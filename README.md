@@ -8,8 +8,8 @@
 
 ### English Blog Posts
 <!-- ENGLISH-BLOG-POST-LIST:START -->
-- [Trie - feat 208. Implement Trie](https://jinmu.me/en/posts/leetcode-208-trie/)
 - [Trie - feat. LeetCode 208. Implement Trie](https://jinmu.me/en/posts/trie-feat-leetcode-208/)
-- [Week 23 - Nanchun](https://jinmu.me/en/weekly/2026-W23/)<!-- ENGLISH-BLOG-POST-LIST:END -->
+- [Week 23 - Nanchun](https://jinmu.me/en/weekly/2026-W23/)
+- [Week 22 - Food Steward](https://jinmu.me/en/weekly/2026-W22/)<!-- ENGLISH-BLOG-POST-LIST:END -->
 
 Check Out My Project [This Link](https://jinmu.me/projects)
