@@ -2,9 +2,9 @@
 
 ### Korean Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [트라이&lpar;Trie&rpar; - feat leetcode 208. Implement Trie](https://jinmu.me/posts/trie-feat-leetcode-208/)
-- [Week 23 - 난춘](https://jinmu.me/weekly/2026-W23/)
-- [Week 22 - 식집사](https://jinmu.me/weekly/2026-W22/)<!-- BLOG-POST-LIST:END -->
+- [트라이&lpar;Trie&rpar; - feat leetcode 208. Implement Trie](https://jinmugo.com/posts/trie-feat-leetcode-208/)
+- [Week 23 - 난춘](https://jinmugo.com/weekly/2026-W23/)
+- [Week 22 - 식집사](https://jinmugo.com/weekly/2026-W22/)<!-- BLOG-POST-LIST:END -->
 
 ### English Blog Posts
 <!-- ENGLISH-BLOG-POST-LIST:START -->
