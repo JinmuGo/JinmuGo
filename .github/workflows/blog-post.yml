@@ -16,7 +16,7 @@ jobs:
       - name: Pull in Korean blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://jinmu.me/rss.xml"
+          feed_list: "https://jinmugo.com/rss.xml"
           max_post_count: 3
           template: "$newline- [$title]($url)"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
@@ -26,7 +26,7 @@ jobs:
       - name: Pull in English blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://jinmu.me/en/rss.xml"
+          feed_list: "https://jinmugo.com/en/rss.xml"
           max_post_count: 3
           template: "$newline- [$title]($url)"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
